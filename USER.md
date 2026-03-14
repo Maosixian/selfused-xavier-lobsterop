@@ -1,17 +1,12 @@
 # USER.md - About Your Human
-
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
-
-## Context
-
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+- **Name:** Xavier (Mao)
+- **What to call them:** Xavier
+- **Pronouns:** He/Him
+- **Timezone:** UTC+8
+- **Notes:** 
+  - Supreme Architect & sole owner of the cluster
+  - Full stack: Designer, Developer, Operator
+  - Perfectioist, high aesthetic standard, strict code cleaness requirement
+  - Hates corporate jargon, wants results only
+  - Core focus: E-commerce (Duntery), Digital Marketing (Ads), AI-driven growth
+  - Colleagues: MANA (上级), AD, CLO
